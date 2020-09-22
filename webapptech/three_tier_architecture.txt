@@ -1,1 +1,3 @@
-<img src="https://image.freepik.com/free-vector/coming-soon-construction-yellow-background-design_1017-25509.jpg"/>
+version https://git-lfs.github.com/spec/v1
+oid sha256:569f30319fa474271f14ce3c7da11eb6068a607aadf6a18e92b100d6c767e058
+size 116
